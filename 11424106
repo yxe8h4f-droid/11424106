@@ -1,0 +1,9 @@
+(2xy+y^2)dx+(x^2+2xy)dy=0
+  M=2xy+y^2
+  N=x^2+2xy
+  ∂M​/∂y=2x+2y
+  ∂N/∂x​=2x+2y
+  F(x,y)=∫(2xy+y^2)dx=x^2y+xy^2+g(y)
+  ∂F/∂y​=x2+2xy+g′(y)
+  x^2y+xy^2=C
+  xy(x+y)=C
